@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710721647.668668,
+			"expirationDate": 1710725294.791708,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,19 +62,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100090339015828"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710721647.668705,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "6%3AxXaey4U7LBdZvA%3A2%3A1679185656%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -91,20 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686964957.508378,
+			"expirationDate": 1710725294.791784,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "fr",
+			"name": "xs",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iPVwgWKGoaRLjO6B.AWWhji1SgzvalBNLpmGrHe5SwWc.BkFlao.fr.AAA.0.0.BkFmPe.AWVC5S1LF4E"
+			"value": "6%3AxXaey4U7LBdZvA%3A2%3A1679185656%3A-1%3A-1%3A%3AAcUhBVDgk4XGQDvuXCBan4iw7Ve5nfyMNgDzq0pWcg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679793879,
+			"expirationDate": 1679794294,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +104,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1686965380.719572,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "07YIXf0ihfzYBvWCC.AWVo2Ov6y7WkgSjSxSYpoxMax7E.BkFmUv.fr.AAA.0.0.BkFmWF.AWUONHt2DDs"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,8 +125,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679189085116%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679189499883%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.03.2023 01:24 Dia02-Registro-teste"
+	"lastEventDate": "19.03.2023 01:31 Dia02-Registro-teste"
 }
