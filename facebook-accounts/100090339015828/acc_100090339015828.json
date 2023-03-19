@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710796258.268611,
+			"expirationDate": 1710797984.23928,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710796258.26873,
+			"expirationDate": 1710797984.239389,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "6%3AxXaey4U7LBdZvA%3A2%3A1679185656%3A-1%3A-1%3A%3AAcX5R-rb8cSudqWXWen5K1kfYjxq1NGOoQn285UQIA"
+			"value": "6%3AxXaey4U7LBdZvA%3A2%3A1679185656%3A-1%3A-1%3A%3AAcVIuC2qhxPm8nEWp8xzhH0aPoS3v8EFxbcU_d6how"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687036376.040716,
+			"expirationDate": 1679868598,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1128x706"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1687039685.983273,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0eMpa9f7Ep0v2aVks.AWVs28LYEJ9AUfHGaTAWmeaVpws.BkF3pi.fr.AAA.0.0.BkF3rY.AWVVEqzkXQk"
+			"value": "0CEFTYybHCwNoxZ7l.AWX1HpoNKG93cnENu1qBr7TPTm8.BkF4Eg.fr.AAA.0.0.BkF4fG.AWUqJr4YRuk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,21 +125,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679260444569%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679865288,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1128x706"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679263803889%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.03.2023 21:25 Dia-03-Dados-Primeiros-amigos"
+	"lastEventDate": "19.03.2023 22:10 Dia-03-Dados-Primeiros-Amigos"
 }
